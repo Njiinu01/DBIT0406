@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <body>
+<title>Tables</title>
+<table border="1" width="700px">
+            <tr><td>S/NO</td>
+                <td>First Name</td>
+                <td>Last Name</td>
+                <td>CAT 1</td>
+                <td>CAT 2</td></tr>
+            <tr><td>1</td>
+                <td>James</td>
+                <td>Kip</td>
+                <td>10</td>
+                <td>12</td></tr>
+            <tr><td>2</td>
+                <td>June</td>
+                <td>Jenga</td>
+                <td>12</td>
+                <td>13</td></tr>
+            <tr><td>3</td>
+                <td>Julian</td>
+                <td>Gichimu</td>
+                <td>20</td>
+                <td>3</td></tr>
+            </table>
+        <br />
+        <table border="1" width="700px">
+            <tr><td rowspan="2">S/NO</td>
+            <td colspan="2">Name</td><td colspan="2">CATS</td><td rowspan="2">EXAMS</td></tr>
+            <tr><td>First Name</td><td>Last Name</td><td>CAT 1</td><td>CAT 2</td></tr>
+            <tr><td>1</td><td>James</td><td>Kip</td><td>10</td><td>12</td><td>56</td></tr>
+            <tr><td>2</td><td>June</td><td>Jenga</td><td>12</td><td>13</td><td>45</td></tr>
+            <tr><td>3</td><td>Julian</td><td>Gichimu</td><td>20</td><td>3</td><td>44</td></tr>
+    </table>
+    </body>
+</html>

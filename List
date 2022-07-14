@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Lists</title></head>
+    <body>
+        <h2>UNORDERED list</h2>
+        <h3>Circle Type</h3>
+        <body>
+        <h2>Shopping List</h2>
+        <ul type="circle">
+                <li>Baking Powder</li>
+                <li>Maize Flour</li>
+                <li>Baking Flour</li>
+                <li>Chocolate</li></ul>
+        <h3>Square Type</h3>
+        <h2>Shopping List</h2>
+        <ul type="square">
+                <li>Baking Powder</li>
+                <li>Maize Flour</li>
+                <li>Baking Flour</li>
+                <li>Chocolate</li></ul>
+         <h1>ORDERED LIST</h1>
+            <h3>Type 1</h3>
+            <ol type="1">
+                <li>Powder</li>
+                <li>Maize</li>
+                <li>Beans</li>
+                <li>Chocolate</li></ol>
+            <h3>Type i</h3>
+            <ol type="i">
+                <li>Powder</li>
+                <li>Maize</li>
+                <li>Beans</li>
+                <li>Chocolate</li></ol>
+            <h3>Type I</h3>
+            <ol type="I">
+                <li>Powder</li>
+                <li>Maize</li>
+                <li>Beans</li>
+                <li>Chocolate</li></ol>
+            <h3>Type A</h3>
+            <ol type="A">
+                <li>Powder</li>
+                <li>Maize</li>
+                <li>Beans</li>
+                <li>Chocolate</li></ol>
+            <h3>Type a</h3>
+            <ol type="a">
+                <li>Powder</li>
+                <li>Maize</li>
+                <li>Beans</li>
+                <li>Chocolate</li></ol>
+    </body>
+</html>
